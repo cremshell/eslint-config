@@ -9,7 +9,12 @@
     "type": "git",
     "url": "git+https://github.com/cremshell/eslint-config.git"
   },
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "typescript",
+    "react"
+  ],
   "author": "cremshell",
   "license": "ISC",
   "bugs": {
@@ -17,7 +22,7 @@
   },
   "homepage": "https://github.com/cremshell/eslint-config#readme",
   "description": "",
-  "devDependencies": {
+  "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.29.1",
     "@typescript-eslint/parser": "^8.29.1",
     "eslint": "^9.24.0",

@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config",
+  "name": "cremshell/eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "url": "git+https://github.com/cremshell/eslint-config.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "cremshell",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cremshell/eslint-config/issues"

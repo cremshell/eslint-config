@@ -4,9 +4,11 @@ My custom ESLint config for React + TypeScript projects.
 
 ## Installation
 
+This config is compatible with **ESLint v8.x**.
+
 ```bash
 npm install -D @cremshell/eslint-config \
-  eslint \
+  eslint@8 \
   @typescript-eslint/eslint-plugin \
   @typescript-eslint/parser \
   eslint-plugin-react \
